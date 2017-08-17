@@ -26,10 +26,6 @@ class Me extends Component {
 
         <List>
           <FormLabel>E-mail</FormLabel>
-          <TextField
-            style={{height: 40, borderColor: 'gray', borderWidth: 1}}
-            value={this.props.email}
-          />
 
           <ListItem
             title="Email"
